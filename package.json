@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha --recursive --exit",
     "start": "node index.js",
-    "dev": "nodeindex.js",
+    "dev": "node index.js",
     "lint": "eslint ./"
   },
   "repository": {
