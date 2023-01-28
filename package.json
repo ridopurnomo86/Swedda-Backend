@@ -10,6 +10,10 @@
     "build": "yarn build",
     "lint": "eslint ./"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridopurnomo86/Swedda-Backend"
+  },
   "keywords": [],
   "author": "ridopurnomo86",
   "license": "ISC",
