@@ -6,8 +6,7 @@
   "scripts": {
     "test": "mocha --recursive --exit",
     "start": "node index.js",
-    "dev": "nodemon index.js",
-    "build": "yarn build",
+    "dev": "nodeindex.js",
     "lint": "eslint ./"
   },
   "repository": {
